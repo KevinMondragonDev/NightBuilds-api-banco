@@ -1,8 +1,8 @@
-# 🚀 Sideproject — API del banco
+# 🚀 NightBuild — API del banco
 
-**Repositorio:** `sideproject-api-banco` · **Tipo:** API REST · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 4 de esta sección
+**Repositorio:** `NightBuilds-api-banco` · **Tipo:** API REST · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 4 de esta sección
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
