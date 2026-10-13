@@ -1,6 +1,6 @@
 # 🚀 Sideproject — API del banco
 
-**Repositorio:** `sideproject-api-banco` · **Tipo:** API REST · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 4 de esta carpeta
+**Repositorio:** `sideproject-api-banco` · **Tipo:** API REST · **Tiempo:** 8–10 h · **Después de:** lecciones 1 a 4 de esta sección
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 

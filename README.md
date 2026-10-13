@@ -2,7 +2,7 @@
 
 > API REST en capas con FastAPI y PostgreSQL que sirve los datos de clientes, cuentas y movimientos de un banco.
 
-**Estado:** 🚧 sin empezar · **Tipo:** API REST · **Módulo del programa:** 06/06 · APIs con FastAPI
+**Estado:** 🚧 sin empezar · **Tipo:** API REST · **Módulo del programa:** 05/06 · APIs con FastAPI
 
 ## La problemática
 
